@@ -1,0 +1,16 @@
+{
+  "name": "yen_algorithm_js",
+  "version": "1.0.0",
+  "main": "algorithm.js",
+  "dependencies": {
+    "graphlib": "^2.1.8",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
